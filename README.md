@@ -1,7 +1,8 @@
-# 🧮 React Counter App (with History)
+# 🧮 React Counter App (with History) [Link]([url](https://sreejaan.github.io/React-Counter/))
 
 A simple **React Counter Application** that allows you to increment, decrement, and reset a counter.  
 It also keeps track of the **history of all counter values** and displays them as badges.
+
 
 ---
 
@@ -38,3 +39,4 @@ npm install
 
 # 4. Start the development server
 npm run dev
+```
